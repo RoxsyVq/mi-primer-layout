@@ -25,18 +25,16 @@ margin: 5px  20px;
 }
  .habi{
    text-align: left;
-    margin-left: 20px;
 
  }
  .habi p{
    font-size: 35px;
    color:black;
-    margin-left: 10px;
 
  }
 .html, .css, .js{
    background:#918f86;
-
+   margin-left: 10px;
 
  }
 
