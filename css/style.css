@@ -1,0 +1,76 @@
+.conta{
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid #30302d;
+
+}
+header .coder{
+  margin: 20px 0 0 0;
+    text-align: center;
+
+}
+h1{
+  font-size: 35px;
+  margin: 0;
+    text-align: center;
+}
+.coder{
+  border-radius: 100%;
+    text-align: center;
+
+}
+header p{
+margin: 5px  20px;
+  text-align: center;
+}
+ .habi{
+   text-align: left;
+    margin-left: 20px;
+
+ }
+ .habi p{
+   font-size: 35px;
+   color:black;
+    margin-left: 10px;
+
+ }
+.html, .css, .js{
+   background:#918f86;
+
+
+ }
+
+ .html{
+   width: 500px;
+   padding: 20px 20px;
+   margin: 10px 0;
+ }
+ .css{
+   width: 350px;
+   padding: 20px 20px;
+   margin: 10px 0;
+ }
+ .js{
+   width: 150px;
+   padding: 20px 20px;
+   margin: 10px 0;
+ }
+ .portafolio{
+overflow: auto;
+      margin-top: 20px;
+      margin-left: 10px;
+ }
+ .portafolio p{
+   font-size: 35px;
+   color:black;
+   text-align: left;
+
+ }
+ .portafolio img{
+   margin-left:  40px;
+   margin-bottom: 30px;
+   position: relative;
+  float: left;
+   width: 150px;
+
+ }
